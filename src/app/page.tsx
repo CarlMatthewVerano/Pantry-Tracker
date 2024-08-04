@@ -185,7 +185,7 @@ export default function Home() {
                         display="flex"
                         alignItems="center"
                         justifyContent="space-between"
-                        bgcolor={"#f0f0f0"}
+                        bgcolor={"#B1B1B1"}
                         padding={5}
                     >
                         <Typography
